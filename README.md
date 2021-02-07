@@ -11,7 +11,10 @@
 
  - The Scrum Master moderates and facilitates the discussion. 
 
- - The objective is to assess the maturity and performance, not to perform root cause analysis. Set up a separate discussion that.
+ > The objective is to assess the maturity and performance, not to perform root cause analysis. Set up a separate discussion that.
+   Aim to share points of view to​:
+   1. Agree on your actual situation and
+   2. Establish a baseline for future improvement
 
  - People might have different degrees of knowledge and understanding. Reaching an agreement may not be possible, and it is by no means the objective of the activity.
 
