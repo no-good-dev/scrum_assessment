@@ -119,7 +119,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 
 [21] Only the Product Owner has the authority to cancel the Sprint.
 
-#### 006 Sprint Planning
+#### 006 - Sprint Planning
 
 [0] It is timeboxed to a maximum of eight hours for a one-month Sprint (shorter for shorter Sprints).
 
@@ -136,7 +136,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 [13] The output of the Sprint Planning is always a Sprint Backlog.
 
 
-#### 006B The Sprint Goal
+#### 006B - The Sprint Goal
 
 [0] It is expressed as a single objective.
 
@@ -147,7 +147,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 [3] Developers are committed to achieving it.
 
 
-#### 007 Daily Scrum
+#### 007 - Daily Scrum
 
 [0] It is timeboxed to a maximum of 15 minutes every working day of the Sprint.
 
@@ -158,7 +158,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 [3] The structure is selected by the Developers.
 
 
-#### 008 Sprint Review
+#### 008 - Sprint Review
 
 [0] It is timeboxed to a maximum of 8 hours a month.
 
@@ -169,7 +169,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 [3] It is the second to last event of the Sprint.
 
 
-#### 009 Sprint Retrospective
+#### 009 - Sprint Retrospective
 
 [0] It is timeboxed to a maximum of three hours for a one-month Sprint.
 
@@ -181,7 +181,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 
 [5] The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
 
-#### 010 Product Backlog
+#### 010 - Product Backlog
 
 [0] There is an emergent, ordered Product Backlog.
 
@@ -192,7 +192,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 [3] The Product Backlog items are deemed ready for selection in a Sprint Planning event.
 
 
-#### 011 Sprint Backlog
+#### 011 - Sprint Backlog
 
 [0] It is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
 
@@ -201,7 +201,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 [2] It has enough detail so developers can inspect their progress in the Daily Scrum.
 
 
-#### 012 Increment
+#### 012 - Increment
 
 
 [0] It is a concrete stepping stone toward the Product Goal. 
@@ -215,7 +215,7 @@ The Scrum Guide © 2020 Ken Schwaber and Jeff Sutherland, offered for license un
 [3] All Increments work together. 
 
 
-#### 013 Definition of Done
+#### 013 - Definition of Done
 
 [0] It is part of the standards of the organization.
 
