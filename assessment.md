@@ -112,3 +112,111 @@
 [13] During the Sprint  the scope may be clarified and renegotiated with the Product Owner as more is learned.
 
 [21] Only the Product Owner has the authority to cancel the Sprint.
+
+#### 006 Sprint Planning
+
+[0] Is timeboxed to a maximum of eight hours for a one-month Sprint (shorter for shorter Sprints).
+
+[1] The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal.
+
+[2] The Sprint Goals are finalized prior to the end of Sprint Planning.
+
+[3] Only the Developers select items from the Product Backlog to include in the current Sprint.
+
+[5] The Developers plan the work necessary to create an Increment that meets the Definition of Done.
+
+[8] No one tells the Developers how to turn Product Backlog items into Increments of value.
+
+[13] The output of the Sprint Planning is always a Sprint Backlog.
+
+
+#### 006B The Sprint Goal
+
+[0] Is expressed as a single objective.
+
+[1] Is created during the Sprint Planning.
+
+[2] Is the only thing the Team is working on.
+
+[3] Developers are committed to achieving it.
+
+
+#### 007 Daily Scrum
+
+[0] Is timeboxed to a maximum of 15 minutes, every working day of the Sprint.
+
+[1] It is held at the same time and place every working day of the Sprint.
+
+[2] The Product Owner and Scrum Master Sprint Backlog, they participate as Developers, when applicable.
+
+[3] The structure was selected by the Developers.
+
+
+#### 008 Sprint Review
+
+[0] Is timeboxed to a maximum of 8 hours a month.
+
+[1] The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
+
+[2] The Sprint Review is a working session, not a mere presentation.
+
+[3] It is the second to last event of the Sprint.
+
+
+#### 009 Sprint Retrospective
+
+[0] It is timeboxed to a maximum of three hours for a one-month Sprint.
+
+[1] It is the last event of the Sprint.
+
+[2] The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. 
+
+[3]  Assumptions that led them astray are identified and their origins explored. 
+
+[5] The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
+
+
+#### 010 Product Backlog
+
+[0] There is an emergent, ordered Product Backlog.
+
+[1] The Product Backlog is the single source of work undertaken by the Scrum Team.
+
+[2] The Product Backlog items can be Done by the Scrum Team within one Sprint.
+
+[3] The Product Backlog items are deemed ready for selection in a Sprint Planning event.
+
+
+#### 011 Sprint Backlog
+
+[0] Is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
+
+[1] Is updated throughout the Sprint as more is learned. 
+
+[2] It  has enough detail the developers can inspect their progress in the Daily Scrum.
+
+
+#### 012 Increment
+
+
+[0] Is a concrete stepping stone toward the Product Goal. 
+
+[1] Each Increment is additive to all prior Increments and thoroughly verified. 
+
+[2] It is usable.
+
+[3] Only work that meets the Definition of Done is added to it.
+
+[3] All Increments work together. 
+
+
+#### 013 Definition of Done
+
+[0] Is part of the standards of the organization.
+
+[1] All Scrum Teams must follow it as a minimum.
+
+[2] It exists as a formal description of state of the Increment when it meets the quality measures required for the product.
+
+
+
